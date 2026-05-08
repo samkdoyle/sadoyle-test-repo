@@ -2,3 +2,6 @@ Hello, world!
 
 Update:
 I have more to say!
+
+Branch update:
+This should merge fine!
