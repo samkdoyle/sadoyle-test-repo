@@ -3,5 +3,4 @@ Hello, world!
 Update:
 I have more to say!
 
-Branch update:
-This should merge fine!
+Branch 2, the superior branch, reporting for duty!
